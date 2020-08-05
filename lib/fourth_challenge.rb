@@ -28,5 +28,5 @@ def fourth_challenge
 
 end
 
-epic_tragedy=[:capulet][:heroine][:status]= "dead"
+
  
